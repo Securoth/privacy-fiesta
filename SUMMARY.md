@@ -1,26 +1,17 @@
 # Table of contents
 
-* [Privacy](README.md)
+* [Workstation Setup](README.md)
 
-## State Privacy Laws
+## Enumeration <a id="enumeration-1"></a>
 
-* [Untitled](state-privacy-laws/untitled.md)
+* [Telnet](enumeration-1/telnet.md)
+* [SNMP](enumeration-1/snmp.md)
+* [SMB](enumeration-1/undefined.md)
+* [FTP](enumeration-1/ftp.md)
+* [SSH](enumeration-1/ssh.md)
 
-## Federal Privacy Laws
+## Discovery
 
-* [Untitled](federal-privacy-laws/untitled.md)
-
-## Constitutional Provisions
-
-* [US Consitution](constitutional-provisions/us-consitution.md)
-* [Alaska Constitution](constitutional-provisions/alaska-constitution.md)
-* [Arizona Constitution](constitutional-provisions/arizona-constitution.md)
-* [California Constitution](constitutional-provisions/california-constitution.md)
-* [Florida Constitution](constitutional-provisions/florida-constitution.md)
-* [Hawaii Constitution](constitutional-provisions/hawaii-constitution.md)
-* [Illinois Constitution](constitutional-provisions/illinois-constitution.md)
-* [Louisiana Constitution](constitutional-provisions/louisiana-constitution.md)
-* [Montana Constitution](constitutional-provisions/montana-constitution.md)
-* [South Carolina](constitutional-provisions/south-carolina.md)
-* [Washington Constitution](constitutional-provisions/washington-constitution.md)
+* [Port Scanning](discovery/port-scanning.md)
+* [Social Engineering](discovery/social-engineering.md)
 
